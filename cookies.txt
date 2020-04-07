@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mifx.com	TRUE	/	FALSE	1999999999	ueCSRFsesKey	1c8a31d5c90abac2f286bd75e6f27804
+mifx.com	TRUE	/	FALSE	1999999999	UESSID	1tk8i5proi3paubak3cgvi0408
+.hs-scripts.com	TRUE	/	FALSE	1999999999	__cfduid	d94d18e17b9f44b843c63c8c457d00e901586136681
+js.hs-scripts.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+mifx.com	TRUE	/	FALSE	1999999999	LiveTmp[product_id]	2
+mifx.com	TRUE	/	FALSE	1999999999	LiveTmp[transaction_type]	4
+mifx.com	TRUE	/	FALSE	1999999999	Source	BlogTradingTips
+mifx.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

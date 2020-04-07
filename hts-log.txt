@@ -1,0 +1,99 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Apr 2020 08:30:44 at https://mifx.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mifx.com/ -O1 "C:\My Web Sites\template-sk017" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/ue-js/owlcarousel/AjaxLoader.gif (from https://mifx.com/ue-js/owlcarousel/owl.theme.css?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/smartbanner.js (from https://mifx.com/js/smartbannerapp/smartbanner.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/polyfills/array/from.js (from https://mifx.com/js/smartbannerapp/smartbanner.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/polyfills/array/includes.js (from https://mifx.com/js/smartbannerapp/smartbanner.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/optionparser.js (from https://mifx.com/js/smartbannerapp/smartbanner.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/detector.js (from https://mifx.com/js/smartbannerapp/smartbanner.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/bakery.js (from https://mifx.com/js/smartbannerapp/smartbanner.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/mousedown.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/click.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/mouseover.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/dragstart.jsp selectstart.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/mousemove.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/mouseup.jsp mouseleave.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/mouseup.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/dragstart.jsp selectstart.jsp mousemove.jsp mouseup.jsp mouseleave.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/focus.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/keydown.jsp keypress.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/keydown.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/keypress.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/touchstart.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/touchmove.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:33	Error: 	"Not Found" (404) at link https://mifx.com/touchend.jsp (from https://mifx.com/js/scrollpane/scrollpane.js?v=1583379820)
+08:35:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mifx.com/images/trading-tools-model.png (from https://mifx.com/about-us/trading-tools)
+08:36:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mifx.com/upload/news/pilih-pilih-broker-mending-yang-legal-daripada-menyesal-2453da4.jpg (from https://mifx.com/blog/7/brokerforex)
+08:37:43	Error: 	"Not Found" (404) at link https://mifx.com/about-us/keunggulan-bertransaksi-di-monex (from https://mifx.com/pro-rebate)
+08:37:43	Error: 	"Not Found" (404) at link https://mifx.com/landing-page/images/loading.gif (from https://mifx.com/pro-rebate)
+08:37:43	Error: 	"Not Found" (404) at link https://mifx.com/landing-page/ue-js/footerjs.js?v=1583379820 (from https://mifx.com/pro-rebate)
+08:37:43	Error: 	"Not Found" (404) at link https://mifx.com/counter.js (from https://mifx.com/ue-js/vcount/counter.js?v=1583379820)
+08:37:43	Error: 	"Not Found" (404) at link https://mifx.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+08:37:44	Error: 	"Not Found" (404) at link https://mifx.com/upload/news/pengenalan-dunia-trading-3-346f.jpg (from https://mifx.com/education-read/course-1/3/pengenalan-dunia-trading)
+08:37:49	Error: 	"Not Found" (404) at link https://mifx.com/upload/news/menggunakan-platform-trading-4-4692.jpg (from https://mifx.com/education-read/course-2/4/menggunakan-platform-trading)
+08:37:52	Error: 	"Not Found" (404) at link https://mifx.com/upload/news/strategi-trading-dasar-5-ecb7.jpg (from https://mifx.com/education-read/course-3/5/strategi-trading-dasar)
+08:37:57	Error: 	"Not Found" (404) at link https://mifx.com/upload/news/strategi-trading-lanjutan-6-b684.jpg (from https://mifx.com/education-read/course-4/6/strategi-trading-lanjutan)
+08:38:01	Error: 	"Not Found" (404) at link https://mifx.com/upload/news/menggunakan-trading-tools-7-f01f.jpg (from https://mifx.com/education-read/course-5/7/menggunakan-trading-tools)
+08:38:50	Error: 	"Forbidden" (403) at link https://mifx.com/upload/news/ (from https://mifx.com/blog/2/analisis?page=5)
+08:38:55	Error: 	"Not Found" (404) at link https://mifx.com/landing-page/ue-images/info.png (from https://mifx.com/landing-page/ue-css/ue-style.css?3)
+08:38:55	Error: 	"Not Found" (404) at link https://mifx.com/landing-page/ue-images/alert.png (from https://mifx.com/landing-page/ue-css/ue-style.css?3)
+08:38:55	Error: 	"Not Found" (404) at link https://mifx.com/landing-page/images/productidxbg.jpg (from https://mifx.com/landing-page/style.css?3)
+08:38:55	Error: 	"Not Found" (404) at link https://mifx.com/landing-page/images/BG_MBAE.jpg (from https://mifx.com/landing-page/style.css?3)
+08:38:55	Error: 	"Not Found" (404) at link https://mifx.com/landing-page/images/BG_MBAE@2x.jpg (from https://mifx.com/landing-page/style.css?3)
+08:38:55	Error: 	"Not Found" (404) at link https://mifx.com/Version/ (from https://mifx.com/js/scroll-magic/TweenMax.min.js)
+08:38:56	Error: 	"Not Found" (404) at link https://mifx.com/. Please make sure to include plugins/debug.addIndicators.js (from https://mifx.com/js/scroll-magic/ScrollMagic.js)
+08:38:56	Error: 	"Not Found" (404) at link https://mifx.com/. Please make sure to include plugins/animation.gsap.js (from https://mifx.com/js/scroll-magic/ScrollMagic.js)
+08:38:56	Error: 	"Not Found" (404) at link https://mifx.com/. Please make sure to include plugins/animation.velocity.js (from https://mifx.com/js/scroll-magic/ScrollMagic.js)
+08:38:56	Error: 	"Not Found" (404) at link https://mifx.com/landing-page/js/owlcarousel/owl.video.play.png (from https://mifx.com/landing-page/js/owlcarousel/owl.carousel.css)
+08:39:42	Error: 	"Not Found" (404) at link https://mifx.com/Nantikan Analisis Trader Ahli lainnya dan Tips Trading disini. Anda juga bisa mulai trading dengan Trading Tanpa Biaya. (from https://mifx.com/blog-read/analisis-trader-ahli/102/trading-tips-russell-sandiford-(22-februari-2018))
+08:39:57	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/
+08:39:57	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/ and https://mifx.com/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/
+08:39:57	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/ to https://mifx.com/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/
+08:39:57	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/
+08:39:57	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/ and https://mifx.com/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/
+08:39:57	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/ to https://mifx.com/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/
+08:39:57	Warning: 	Moved Permanently for mifx.com/web/tradingtips/index.php/2017/09/20/tips-memanfaatkan-volatilitas-nfp-saat-trading/
+08:39:57	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/web/tradingtips/index.php/2017/09/20/tips-memanfaatkan-volatilitas-nfp-saat-trading/ and https://mifx.com/web/tradingtips/index.php/2017/09/20/tips-memanfaatkan-volatilitas-nfp-saat-trading/
+08:39:57	Warning: 	File has moved from mifx.com/web/tradingtips/index.php/2017/09/20/tips-memanfaatkan-volatilitas-nfp-saat-trading/ to https://mifx.com/web/tradingtips/index.php/2017/09/20/tips-memanfaatkan-volatilitas-nfp-saat-trading/
+08:39:57	Error: 	"Not Found" (404) at link mifx.com/spreadfromzero?Source=BlogTradingTips (from https://mifx.com/blog-read/analisis-trader-ahli/63/trading-tips-russel-sandiford-(10-okt))
+08:39:57	Error: 	"Not Found" (404) at link https://mifx.com/upload/generalImage/33e75-WhatsApp Image 2018-05-07 at 16.04.12.jpeg (from https://mifx.com/blog-read/tips-ahli/116/leverage-memaksimalkan-potensi-profit-anda)
+08:39:57	Error: 	"Not Found" (404) at link https://mifx.com/ https://mifx.com/blog-read/tips-ahli/114/di-antara-produk-keuangan-lainnya,-forex-memberi-banyak-keuntungan (from https://mifx.com/blog-read/tips-ahli/116/leverage-memaksimalkan-potensi-profit-anda)
+08:39:58	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/10/11/pentingnya-stop-loss-dalam-trading-plan/
+08:39:58	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/10/11/pentingnya-stop-loss-dalam-trading-plan/ and https://mifx.com/tradingtips/index.php/2017/10/11/pentingnya-stop-loss-dalam-trading-plan/
+08:39:58	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/10/11/pentingnya-stop-loss-dalam-trading-plan/ to https://mifx.com/tradingtips/index.php/2017/10/11/pentingnya-stop-loss-dalam-trading-plan/
+08:39:58	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/11/10/4-data-ekonomi-amerika-serikat-penggerak-trading-forex/
+08:39:58	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/11/10/4-data-ekonomi-amerika-serikat-penggerak-trading-forex/ and https://mifx.com/tradingtips/index.php/2017/11/10/4-data-ekonomi-amerika-serikat-penggerak-trading-forex/
+08:39:58	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/11/10/4-data-ekonomi-amerika-serikat-penggerak-trading-forex/ to https://mifx.com/tradingtips/index.php/2017/11/10/4-data-ekonomi-amerika-serikat-penggerak-trading-forex/
+08:39:58	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/10/11/kalender-ekonomi-trading-pada-momen-yang-tepat/
+08:39:58	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/10/11/kalender-ekonomi-trading-pada-momen-yang-tepat/ and https://mifx.com/tradingtips/index.php/2017/10/11/kalender-ekonomi-trading-pada-momen-yang-tepat/
+08:39:58	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/10/11/kalender-ekonomi-trading-pada-momen-yang-tepat/ to https://mifx.com/tradingtips/index.php/2017/10/11/kalender-ekonomi-trading-pada-momen-yang-tepat/
+08:39:58	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/08/24/apa-rutinitas-tradingmu/
+08:39:58	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/08/24/apa-rutinitas-tradingmu/ and https://mifx.com/tradingtips/index.php/2017/08/24/apa-rutinitas-tradingmu/
+08:39:58	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/08/24/apa-rutinitas-tradingmu/ to https://mifx.com/tradingtips/index.php/2017/08/24/apa-rutinitas-tradingmu/
+08:39:58	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/09/01/hindari-4-hal-ini-untuk-sukses-dalam-trading/
+08:39:58	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/09/01/hindari-4-hal-ini-untuk-sukses-dalam-trading/ and https://mifx.com/tradingtips/index.php/2017/09/01/hindari-4-hal-ini-untuk-sukses-dalam-trading/
+08:39:58	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/09/01/hindari-4-hal-ini-untuk-sukses-dalam-trading/ to https://mifx.com/tradingtips/index.php/2017/09/01/hindari-4-hal-ini-untuk-sukses-dalam-trading/
+08:39:58	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/10/27/sempurnakan-kemampuan-trading-anda-dengan-akun-demo/
+08:39:58	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/10/27/sempurnakan-kemampuan-trading-anda-dengan-akun-demo/ and https://mifx.com/tradingtips/index.php/2017/10/27/sempurnakan-kemampuan-trading-anda-dengan-akun-demo/
+08:39:58	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/10/27/sempurnakan-kemampuan-trading-anda-dengan-akun-demo/ to https://mifx.com/tradingtips/index.php/2017/10/27/sempurnakan-kemampuan-trading-anda-dengan-akun-demo/
+08:39:58	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/10/04/5-tips-untuk-menjadi-trader-yang-sukses/
+08:39:58	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/10/04/5-tips-untuk-menjadi-trader-yang-sukses/ and https://mifx.com/tradingtips/index.php/2017/10/04/5-tips-untuk-menjadi-trader-yang-sukses/
+08:39:58	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/10/04/5-tips-untuk-menjadi-trader-yang-sukses/ to https://mifx.com/tradingtips/index.php/2017/10/04/5-tips-untuk-menjadi-trader-yang-sukses/
+08:39:58	Warning: 	Moved Permanently for mifx.com/tradingtips/index.php/2017/10/11/peluangtrading-eksklusif-dari-bank-besar-dunia/
+08:39:58	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/tradingtips/index.php/2017/10/11/peluangtrading-eksklusif-dari-bank-besar-dunia/ and https://mifx.com/tradingtips/index.php/2017/10/11/peluangtrading-eksklusif-dari-bank-besar-dunia/
+08:39:58	Warning: 	File has moved from mifx.com/tradingtips/index.php/2017/10/11/peluangtrading-eksklusif-dari-bank-besar-dunia/ to https://mifx.com/tradingtips/index.php/2017/10/11/peluangtrading-eksklusif-dari-bank-besar-dunia/
+08:40:10	Warning: 	Moved Permanently for mifx.com/web/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/
+08:40:10	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/web/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/ and https://mifx.com/web/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/
+08:40:10	Warning: 	File has moved from mifx.com/web/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/ to https://mifx.com/web/tradingtips/index.php/2017/09/22/cara-trading-forex-menggunakan-support-dan-resistance/
+08:40:10	Warning: 	Moved Permanently for mifx.com/web/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/
+08:40:10	Warning: 	Redirected link is identical because of 'URL Hack' option: mifx.com/web/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/ and https://mifx.com/web/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/
+08:40:10	Warning: 	File has moved from mifx.com/web/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/ to https://mifx.com/web/tradingtips/index.php/2017/10/19/temukan-tren-candlestick-bantu-ambil-posisi/
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 56 seconds : 1398 links scanned, 1334 files written (162305132 bytes overall) [127418309 bytes received at 213789 bytes/sec], 54976709 bytes transferred using HTTP compression in 761 files, ratio 25%, 1.8 requests per connection
+(47 errors, 41 warnings, 0 messages)
